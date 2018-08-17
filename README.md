@@ -1,6 +1,9 @@
 # arcgis-voice
 
-This is a rudimentary proof of concept (concept: you can talk to maps).
+This is a rudimentary proof of concept (concept: you can talk to maps). Only tested in Chrome. Be sure to allow the app to use your microphone.
+
+#### Demo
+https://github.com/jpeterson/arcgis-voice
 
 ## Uses
 
